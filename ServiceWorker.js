@@ -1,9 +1,9 @@
 const cacheName = "Bonk Developments-PRESERVE THE GAME-0A";
 const contentToCache = [
-    "Build/MOBITEST 1.12.24.loader.js",
-    "Build/MOBITEST 1.12.24.framework.js.br",
-    "Build/MOBITEST 1.12.24.data.br",
-    "Build/MOBITEST 1.12.24.wasm.br",
+    "Build/BSP_GHOST.loader.js",
+    "Build/BSP_GHOST.framework.js.br",
+    "Build/BSP_GHOST.data.br",
+    "Build/BSP_GHOST.wasm.br",
     "TemplateData/style.css"
 
 ];
