@@ -53,7 +53,7 @@ function createUnityInstance(canvas, config, onProgress) {
     canvas: canvas,
     webglContextAttributes: {
       preserveDrawingBuffer: false,
-      powerPreference: 0,
+      powerPreference: 2,
     },
     streamingAssetsUrl: "StreamingAssets",
     downloadProgress: {},
